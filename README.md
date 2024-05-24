@@ -1,7 +1,3 @@
-Certainly! Below is a GitHub README for a "Focus Timer Study Buddy" app built in React Native. This README includes emojis for a fun and engaging presentation.
-
----
-
 # ⏰ Focus Timer Study Buddy 📚
 
 Welcome to the **Focus Timer Study Buddy** app! This app is designed to help you stay focused and productive during your study sessions by using a timer-based approach. Built with React Native, this is our first app and we are excited to share it with you! 🚀
