@@ -81,5 +81,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Made with ❤️ by [Abhik](https://github.com/Abhik4004/)
 
 ---
-
-Feel free to personalize this README further based on your specific project details and personal touches.
