@@ -10,6 +10,12 @@ Welcome to the **Focus Timer Study Buddy** app! This app is designed to help you
 - **Notifications**: Get notified when it's time to take a break or get back to work.
 - **Simple and Intuitive UI**: Easy to use interface designed for maximum productivity.
 
+## Screenshots 📸
+
+| Focus Timer Screen | Break Timer Screen | Progress Screen |
+| ------------------ | ------------------ | --------------- |
+| ![Focus Timer](./screenshots/focus-timer.jpg) | ![Break Timer](./screenshots/break-timer.jpg) | ![Progress](./screenshots/progress.jpg) |
+
 ## Getting Started 🚀
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
@@ -78,6 +84,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Abhik](https://github.com/Abhik4004/)
+Made with ❤️ by [Abhik](https://github.com/Abhik4004)
 
 ---
