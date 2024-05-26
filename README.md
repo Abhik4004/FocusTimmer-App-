@@ -66,7 +66,11 @@ Make sure you have the following installed on your development machine:
 ### Download the APK 📥
 
 If you prefer, you can directly download the APK file and install the app on your Android device:
--> Download the .apk file
+   ```bash
+   cd app
+   download .apk file
+   install it on your device
+   ```
 
 ## Contributing 🤝
 
