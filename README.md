@@ -63,6 +63,11 @@ Make sure you have the following installed on your development machine:
 2. **Break time**: Receive a notification when it's time to take a break.
 3. **Track your progress**: View the number of sessions completed and stay motivated.
 
+### Download the APK 📥
+
+If you prefer, you can directly download the APK file and install the app on your Android device:
+-> Download the .apk file
+
 ## Contributing 🤝
 
 Contributions are what make the open source community such an amazing place to be, learn, inspire, and create. Any contributions you make are **greatly appreciated**.
